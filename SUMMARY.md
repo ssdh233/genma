@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [介绍](README.md)
 * [【一审】1.1 牌效率的原则](11-pai-xiao-lv-de-yuan-ze.md)
 * [【一审】1.2 选择打牌的方法](12-xuan-ze-da-pai-de-fang-fa.md)
 * [【一审】1.3 孤立牌和单独搭子](13-gu-li-pai-he-dan-du-da-zi.md)
