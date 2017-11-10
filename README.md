@@ -1,3 +1,3 @@
-# My Awesome Book
+# 现代麻将技术论 中文翻译
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah 

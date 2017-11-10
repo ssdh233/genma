@@ -11,7 +11,7 @@
 
 **顺子**
 
-<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/1m.gif' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/2m.gif' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/3m.gif' height='32px'><span style="margin-right:100px"></span><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/l3m.gif' height='24px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/4m.gif' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/5m.gif' height='32px'>
+<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/1m.gif' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/2m.gif' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/3m.gif' height='32px'><span style="margin-right:20px"></span><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/l3m.gif' height='24px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/4m.gif' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/5m.gif' height='32px'>
 
 **刻子**
 
