@@ -1,25 +1,25 @@
-section007 http://yabejp.web.fc2.com/mahjong/tactics/chapter01/section007.html
-超愚形搭子和振听搭子
+# 1.7 超愚形搭子和振听搭子
 
 像前面所说的，相同级别的搭子、孤立牌会根据手牌中其他牌的形状和牌河的状况而分出优劣。本节讲述在这之中比较容易理解的，场上所现的枚数和振听相关的牌效率。
 
-超愚形搭子（场中出现2枚以上的愚形搭子）
+## 超愚形搭子（场中出现2枚以上的愚形搭子）
+
 一枚进张的价值在总进张数越少的时候越高，2枚和4枚进张的差距是非常大的。听牌的时候也很不想去听2枚的愚形（即使在中盘先制立直，比起和牌放铳的可能性更大。），因此和3对子时的对子相比也要优先切掉。（3对子在听牌的时候是双碰听，变化也比超愚形多。）如果有3〜7的孤立牌的话（如果是超愚形边张的话28也可以），可以考虑优先孤立牌重新做搭子。
 
 如果只是出现1枚的话，不用太过在意。（如果场中出现1枚，并且可以推断他家这个牌的使用率很高的话则另外）两面在除非极端情况（比如一侧全被打掉变成和边张一样，或者两侧都被切掉3枚），一般不会比愚形先切掉。（因为场上被打出来的牌在他家手中被使用的可能性比较低，所以出现4枚的两面也要比出现0枚的愚形要好。）
 
-场上被切出两枚进张已经成不了刻子的对子也是一样的，只不过和愚形搭子相比变化会强一些。（4m出现两枚的时候的35m和4m出现两枚的时候的44m相比，形成两面的时候会有两枚进张的差距。）当然，虽说对子的变化比较强，不过把对子打掉一枚重新做搭子是更好的。
+场上被切出两枚进张已经成不了刻子的对子也是一样的，只不过和愚形搭子相比变化会强一些。（<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/4m.gif' height='24px'>出现两枚的时候的<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/3m.gif' height='24px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/5m.gif' height='24px'>和<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/4m.gif' height='24px'>出现两枚的时候的<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/4m.gif' height='24px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/4m.gif' height='24px'>相比，形成两面的时候会有两枚进张的差距。）当然，虽说对子的变化比较强，不过把对子打掉一枚重新做搭子是更好的。
 
 类似地，要优先切掉可能做出只有2枚进张的愚形搭子的孤立牌。一枚孤立牌可能做出只有2枚进张的愚形搭子，也就是这枚孤立牌的两面变化也减少了两张。只是1・9，2・8，3～7之间两枚变化的差距分别是4枚，所以除了被切掉太多的极端情况以外基本的优劣还是不变的。
 
-有时候变化的牌被切掉太多也要注意。（比如6p被切掉3枚的35p，摸6p的两面变化可能性很小，摸7p的两嵌变化也变得不好。）
+有时候变化的牌被切掉太多也要注意。（比如<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/6p.gif' height='24px'>被切掉3枚的<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/3p.gif' height='24px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/5p.gif' height='24px'>，摸<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/6p.gif' height='24px'>的两面变化可能性很小，摸<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/7p.gif' height='24px'>的两嵌变化也变得不好。）
 
 以上这些如果不时刻注意牌河的话经常会看漏掉，对战绩有很大影响，应当多注意。
 
-振听搭子
+## 振听搭子
 
-振听之后没有办法荣和，但是这只有振听的搭子留到最后听牌的时候才会发生，即使是振听的两面也比愚形的和率差不了多少（先制立直的话）。因此两面就算是振听也要比愚形优先度要高。（当然如果都是两面的话要优先切振听的）当振听两面的进张被切掉很多，和愚形差不多的时候就嫌う？振听搭子如果是愚形的话则比孤立牌优先切掉。（除了终盘兜牌兜出来的情况以外，会出现振听愚形搭子大部分是手顺搞错了）如果是包含振听的复合搭子，因为在听牌的时候可以选不振听的一侧，所以没有太大必要因为振听而手牌を狭くする。
+振听之后没有办法荣和，但是这只有振听的搭子到听牌都没有进张的时候才会发生，即使是振听的两面也比愚形的和率差不了多少（先制立直的话）。因此两面就算是振听也要比愚形优先度要高。（当然如果都是两面的话要优先切振听的）当振听两面的进张被切掉很多，有效进张数和愚形差不多的时候就优先不振听的愚形搭子。振听搭子如果是愚形的话则比孤立牌优先切掉。（除了终盘兜牌兜出来的情况以外，会出现振听愚形搭子大部分是手顺搞错了）如果是包含振听的复合搭子，因为在听牌的时候可以选不振听的一侧，所以没有太大必要因为振听而减少当前的进张。
 
-就算是振听，两面也比愚形要强。同样的，一枚孤立牌就算有振听的可能性，也要比下一个级别的孤立牌要强。（因为孤立牌比下位的孤立牌多一种两面变化，而且振听两面>愚形）同时，3456和3445的形状即使有可能振听也比普通的3～7要强。同级别的孤立牌如果都包含振听的话，自然要选择比较难形成振听的。
+就算是振听，两面也比愚形要强。同样的，一枚孤立牌就算有振听的可能性，也要比下一个级别的孤立牌要强。（因为孤立牌比下位的孤立牌多一种两面变化，而且振听两面>愚形）同时，<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/3s.gif' height='24px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/4s.gif' height='24px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/5s.gif' height='24px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/6s.gif' height='24px'>和<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/3s.gif' height='24px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/4s.gif' height='24px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/4s.gif' height='24px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/5s.gif' height='24px'>的形状即使有可能振听也比普通的<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/3s.gif' height='24px'>～<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/7s.gif' height='24px'>要强。同级别的孤立牌如果都包含振听的话，自然要选择比较难形成振听的。
 
-综上所述，12m切掉1m之后如果摸进3m，应该打掉其他愚形（愚形搭子基本应该从外侧开始切）。1m1p切掉1m之后如果摸进2m，应该切掉1p。
+综上所述，<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/1m.gif' height='24px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/2m.gif' height='24px'>切掉<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/1m.gif' height='24px'>之后如果摸进<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/3m.gif' height='24px'>，应该打掉其他愚形（愚形搭子基本应该从外侧开始切）。<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/1m.gif' height='24px'><img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/1p.gif' height='24px'>切掉<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/1m.gif' height='24px'>之后如果摸进<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/2m.gif' height='24px'>，应该切掉<img src='https://raw.githubusercontent.com/matsumatsu233/mahjong-pai-converter/master/sources/mj-tactics/1p.gif' height='24px'>。
