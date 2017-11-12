@@ -9,6 +9,6 @@
 * [【初稿】1.6 复合搭子2](3010-cao-gao-3011-1-6-fu-he-da-zi-2.md)
 * [【初稿】1.7 超愚形搭子和振听搭子](3010-cao-gao-3011-1-7-chao-yu-xing-da-zi-he-zhen-ting-da-zi.md)
 * [【初稿】1.8 同级部位的比较方法](3010-cao-gao-3011-1-8.md)
-* [【草稿】1.9 边张](3010-cao-gao-3011-1-9-bian-zhang.md)
+* [【初稿】1.9 边张](3010-cao-gao-3011-1-9-bian-zhang.md)
 * [【草稿】1.13 ](3010-cao-gao-3011-1-13.md)
 
