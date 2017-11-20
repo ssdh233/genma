@@ -91,4 +91,3 @@
 
 除了上面的改良，还有<img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/5m.gif' alt='5m' height='24px'>的两面嵌张改良，<img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/7m.gif' alt='7m' height='24px'>的三面改良，<img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/8m.gif' alt='8m' height='24px'>的两嵌张改良，改良枚数要比内嵌张多，因此这个形状比内嵌张要好。
 
-
