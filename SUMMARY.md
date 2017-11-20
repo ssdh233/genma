@@ -10,6 +10,7 @@
 * [【初稿】1.7 超愚形搭子和振听搭子](3010-cao-gao-3011-1-7-chao-yu-xing-da-zi-he-zhen-ting-da-zi.md)
 * [【初稿】1.8 同级部位的比较方法](3010-cao-gao-3011-1-8.md)
 * [【初稿】1.9 边张](3010-cao-gao-3011-1-9-bian-zhang.md)
+* [【草稿】1.10 外崁张](3010-cao-gao-3011-1-10-wai-kan-zhang.md)
 * [【初稿】1.12 两面搭子](112-liang-mian-da-zi.md)
 * [【初稿】1.13 拆对子](3010-cao-gao-3011-1-13.md)
 
