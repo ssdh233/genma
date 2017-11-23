@@ -13,7 +13,7 @@
 
 <img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/1m.gif' alt='1m' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/3m.gif' alt='3m' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/4m.gif' alt='4m' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/4m.gif' alt='4m' height='32px'>
 
-和1346差不多。即使没有雀头的时候，打掉<img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/1m.gif' alt='1m' height='24px'>之后摸到<img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/2m.gif' alt='2m' height='24px'><img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/5m.gif' alt='5m' height='24px'>也不会损失太大。不过因为摸进<img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/1m.gif' alt='1m' height='24px'>后会形成雀头+两面对子的形状，？
+和1346差不多。即使没有雀头的时候，打掉<img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/1m.gif' alt='1m' height='24px'>之后摸到<img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/2m.gif' alt='2m' height='24px'><img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/5m.gif' alt='5m' height='24px'>也没有太大损失。不过摸进<img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/1m.gif' alt='1m' height='24px'>后会形成雀头+两面对子的形状，比起其他的有重复进张的崁张还是要好一些。
 
 
 
@@ -38,6 +38,7 @@
 
 <img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/4m.gif' alt='4m' height='24px'>的改良和<img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/5m.gif' alt='5m' height='24px'><img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/6m.gif' alt='6m' height='24px'>的进张重复了。
 
+## 改良之后有重复进张
 
 <img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/1m.gif' alt='1m' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/3m.gif' alt='3m' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/6m.gif' alt='6m' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/6m.gif' alt='6m' height='32px'>
 
@@ -45,7 +46,6 @@
 
 
 ## 改良之后有重复进张
-
 <img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/1m.gif' alt='1m' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/3m.gif' alt='3m' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/6m.gif' alt='6m' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/7m.gif' alt='7m' height='32px'>
 
 进<img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/4m.gif' alt='4m' height='24px'>改良后会出现<img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/5m.gif' alt='5m' height='24px'>的重复进张。
