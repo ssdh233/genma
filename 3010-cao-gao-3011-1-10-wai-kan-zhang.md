@@ -56,7 +56,7 @@
 
 <img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/1m.gif' alt='1m' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/3m.gif' alt='3m' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/6m.gif' alt='6m' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/7m.gif' alt='7m' height='32px'><img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/8m.gif' alt='8m' height='32px'>
 
-摸进<img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/5m.gif' alt='5m' height='24px'>后会变成改良很多的两嵌张
+摸进<img src='https://raw.githubusercontent.com/matsumatsu233/mtc/master/sources/mj-tactics/5m.gif' alt='5m' height='24px'>后会变成改良很多的两嵌张。
 
 
 ## 联合
